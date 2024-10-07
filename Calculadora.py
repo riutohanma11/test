@@ -39,4 +39,4 @@ elif opcion == '4':
     print(num1, "/", num2, "=", division(num1, num2))
 
 else:
-    print("Opción inválida")
+    print("Opción inválida.")
